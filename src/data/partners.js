@@ -1,0 +1,73 @@
+export const partners = [
+  {
+    id: 'partner-1',
+    name: 'Sparkle Wash Co.',
+    location: 'Koramangala, Bengaluru',
+    totalOrders: 342,
+    rating: 4.7,
+  },
+  {
+    id: 'partner-2',
+    name: 'UrbanWash',
+    location: 'Hinjewadi, Pune',
+    totalOrders: 298,
+    rating: 4.5,
+  },
+  {
+    id: 'partner-3',
+    name: 'Fabricare Studio',
+    location: 'Banjara Hills, Hyderabad',
+    totalOrders: 214,
+    rating: 4.3,
+  },
+  {
+    id: 'partner-4',
+    name: 'Laundry Lounge',
+    location: 'Andheri West, Mumbai',
+    totalOrders: 402,
+    rating: 4.8,
+  },
+  {
+    id: 'partner-5',
+    name: 'Press&Go',
+    location: 'South Extension, Delhi',
+    totalOrders: 265,
+    rating: 4.4,
+  },
+  {
+    id: 'partner-6',
+    name: 'FreshFold Hub',
+    location: 'Adyar, Chennai',
+    totalOrders: 187,
+    rating: 4.2,
+  },
+  {
+    id: 'partner-7',
+    name: 'LaundryCraft',
+    location: 'Rajajinagar, Bengaluru',
+    totalOrders: 221,
+    rating: 4.1,
+  },
+  {
+    id: 'partner-8',
+    name: 'Whites&Suds',
+    location: 'Kondapur, Hyderabad',
+    totalOrders: 173,
+    rating: 4.0,
+  },
+  {
+    id: 'partner-9',
+    name: 'NeatNest',
+    location: 'Viman Nagar, Pune',
+    totalOrders: 245,
+    rating: 4.6,
+  },
+  {
+    id: 'partner-10',
+    name: 'Gentle Spin',
+    location: 'Salt Lake, Kolkata',
+    totalOrders: 156,
+    rating: 4.3,
+  },
+];
+
